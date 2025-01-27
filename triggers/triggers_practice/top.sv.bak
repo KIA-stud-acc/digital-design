@@ -1,0 +1,3 @@
+module top(input logic[3:0] KEY_SW, output logic[3:0] LED);
+	assign LED = KEY_SW;
+endmodule

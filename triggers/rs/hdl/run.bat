@@ -1,0 +1,1 @@
+iverilog -g2005-sv testbench.sv rs.sv && vvp a.out && del a.out
