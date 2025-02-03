@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at seven_segment_indicator_practice.sv(6): object "SEG" differs only in case from object "seg" in the same scope File: D:/documents/work/7segment_indicator/7segment_indicator_practice/seven_segment_indicator_practice.sv Line: 6
+Info (10281): Verilog HDL Declaration information at seven_segment_indicator_practice.sv(7): object "DIG" differs only in case from object "dig" in the same scope File: D:/documents/work/7segment_indicator/7segment_indicator_practice/seven_segment_indicator_practice.sv Line: 7

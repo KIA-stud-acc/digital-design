@@ -3,10 +3,10 @@ module top 	 #(clk_div = 26)
 					input RESET, 
 					input logic[3:0] KEY_SW, 
 					output logic[3:0] LED);
-	//`define D_latch
+	`define D_latch
 	//`define D_flip_flop_1
 	//`define D_flip_flop_2
-	`define RS
+	//`define RS
 	//`define JK
 	//`define T
 	logic[3:0] key;
